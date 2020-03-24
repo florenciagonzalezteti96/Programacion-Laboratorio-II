@@ -1,0 +1,12 @@
+C:\Users\flore\Documents\lab2\ProyectoPrueba\ProyectoPrueba\bin\Debug\netcoreapp3.1\ProyectoPrueba.exe
+C:\Users\flore\Documents\lab2\ProyectoPrueba\ProyectoPrueba\bin\Debug\netcoreapp3.1\ProyectoPrueba.deps.json
+C:\Users\flore\Documents\lab2\ProyectoPrueba\ProyectoPrueba\bin\Debug\netcoreapp3.1\ProyectoPrueba.runtimeconfig.json
+C:\Users\flore\Documents\lab2\ProyectoPrueba\ProyectoPrueba\bin\Debug\netcoreapp3.1\ProyectoPrueba.runtimeconfig.dev.json
+C:\Users\flore\Documents\lab2\ProyectoPrueba\ProyectoPrueba\bin\Debug\netcoreapp3.1\ProyectoPrueba.dll
+C:\Users\flore\Documents\lab2\ProyectoPrueba\ProyectoPrueba\bin\Debug\netcoreapp3.1\ProyectoPrueba.pdb
+C:\Users\flore\Documents\lab2\ProyectoPrueba\ProyectoPrueba\obj\Debug\netcoreapp3.1\ProyectoPrueba.csproj.CoreCompileInputs.cache
+C:\Users\flore\Documents\lab2\ProyectoPrueba\ProyectoPrueba\obj\Debug\netcoreapp3.1\ProyectoPrueba.AssemblyInfoInputs.cache
+C:\Users\flore\Documents\lab2\ProyectoPrueba\ProyectoPrueba\obj\Debug\netcoreapp3.1\ProyectoPrueba.AssemblyInfo.cs
+C:\Users\flore\Documents\lab2\ProyectoPrueba\ProyectoPrueba\obj\Debug\netcoreapp3.1\ProyectoPrueba.dll
+C:\Users\flore\Documents\lab2\ProyectoPrueba\ProyectoPrueba\obj\Debug\netcoreapp3.1\ProyectoPrueba.pdb
+C:\Users\flore\Documents\lab2\ProyectoPrueba\ProyectoPrueba\obj\Debug\netcoreapp3.1\ProyectoPrueba.genruntimeconfig.cache
