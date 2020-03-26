@@ -1,0 +1,13 @@
+C:\Users\flore\Documents\lab2\Clase01\Clase01\bin\Debug\netcoreapp3.1\Ejer_00.exe
+C:\Users\flore\Documents\lab2\Clase01\Clase01\bin\Debug\netcoreapp3.1\Ejer_00.deps.json
+C:\Users\flore\Documents\lab2\Clase01\Clase01\bin\Debug\netcoreapp3.1\Ejer_00.runtimeconfig.json
+C:\Users\flore\Documents\lab2\Clase01\Clase01\bin\Debug\netcoreapp3.1\Ejer_00.runtimeconfig.dev.json
+C:\Users\flore\Documents\lab2\Clase01\Clase01\bin\Debug\netcoreapp3.1\Ejer_00.dll
+C:\Users\flore\Documents\lab2\Clase01\Clase01\bin\Debug\netcoreapp3.1\Ejer_00.pdb
+C:\Users\flore\Documents\lab2\Clase01\Clase01\obj\Debug\netcoreapp3.1\Ejer_00.csprojAssemblyReference.cache
+C:\Users\flore\Documents\lab2\Clase01\Clase01\obj\Debug\netcoreapp3.1\Ejer_00.csproj.CoreCompileInputs.cache
+C:\Users\flore\Documents\lab2\Clase01\Clase01\obj\Debug\netcoreapp3.1\Ejer_00.AssemblyInfoInputs.cache
+C:\Users\flore\Documents\lab2\Clase01\Clase01\obj\Debug\netcoreapp3.1\Ejer_00.AssemblyInfo.cs
+C:\Users\flore\Documents\lab2\Clase01\Clase01\obj\Debug\netcoreapp3.1\Ejer_00.dll
+C:\Users\flore\Documents\lab2\Clase01\Clase01\obj\Debug\netcoreapp3.1\Ejer_00.pdb
+C:\Users\flore\Documents\lab2\Clase01\Clase01\obj\Debug\netcoreapp3.1\Ejer_00.genruntimeconfig.cache
