@@ -1,0 +1,13 @@
+C:\Users\flore\Documents\lab2\Ejer_03\Ejer_03\obj\Debug\netcoreapp3.1\Ejer_03.csprojAssemblyReference.cache
+C:\Users\flore\Documents\lab2\Ejer_03\Ejer_03\obj\Debug\netcoreapp3.1\Ejer_03.csproj.CoreCompileInputs.cache
+C:\Users\flore\Documents\lab2\Ejer_03\Ejer_03\obj\Debug\netcoreapp3.1\Ejer_03.AssemblyInfoInputs.cache
+C:\Users\flore\Documents\lab2\Ejer_03\Ejer_03\obj\Debug\netcoreapp3.1\Ejer_03.AssemblyInfo.cs
+C:\Users\flore\Documents\lab2\Ejer_03\Ejer_03\bin\Debug\netcoreapp3.1\Ejer_03.exe
+C:\Users\flore\Documents\lab2\Ejer_03\Ejer_03\bin\Debug\netcoreapp3.1\Ejer_03.deps.json
+C:\Users\flore\Documents\lab2\Ejer_03\Ejer_03\bin\Debug\netcoreapp3.1\Ejer_03.runtimeconfig.json
+C:\Users\flore\Documents\lab2\Ejer_03\Ejer_03\bin\Debug\netcoreapp3.1\Ejer_03.runtimeconfig.dev.json
+C:\Users\flore\Documents\lab2\Ejer_03\Ejer_03\bin\Debug\netcoreapp3.1\Ejer_03.dll
+C:\Users\flore\Documents\lab2\Ejer_03\Ejer_03\bin\Debug\netcoreapp3.1\Ejer_03.pdb
+C:\Users\flore\Documents\lab2\Ejer_03\Ejer_03\obj\Debug\netcoreapp3.1\Ejer_03.dll
+C:\Users\flore\Documents\lab2\Ejer_03\Ejer_03\obj\Debug\netcoreapp3.1\Ejer_03.pdb
+C:\Users\flore\Documents\lab2\Ejer_03\Ejer_03\obj\Debug\netcoreapp3.1\Ejer_03.genruntimeconfig.cache
