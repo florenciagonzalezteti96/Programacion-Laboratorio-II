@@ -23,6 +23,8 @@ namespace Ejer_06
 
             Console.WriteLine("Los anios bisiestos entre {0} y {1} son:", anioInicial, anioFinal);
 
+            /*
+            1* forma: 
             for(i=anioInicial;i<anioFinal;i++)
             {
                 if(i%4 == 0)// si o si tiene que ser multiplo de 4
@@ -46,6 +48,23 @@ namespace Ejer_06
             if(noHayBisiestos == 0)
             {
                 Console.WriteLine("\nNo hay anios bisiestos entre {0} y {1}", anioInicial, anioFinal);
+            }*/
+
+            for (i = anioInicial; i < anioFinal; i++)
+            {
+                if (i % 100 == 0)//si es mult de 4 y de 100
+                {
+                    if (i % 400 == 0)//tiene que ser tambien mult de 400
+                    {
+                        Console.Write(i + " ");
+                        noHayBisiestos = 1;
+                    }
+                }
+                else if (i % 4 == 0) //si no es multiplo de 100 pero si de 4
+                {
+                    Console.Write(i + " ");
+                    noHayBisiestos = 1;
+                }
             }
 
             Console.ReadKey(true);

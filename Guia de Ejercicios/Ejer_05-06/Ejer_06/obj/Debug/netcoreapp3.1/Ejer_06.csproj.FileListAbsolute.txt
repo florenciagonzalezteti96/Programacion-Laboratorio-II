@@ -11,3 +11,16 @@ C:\Users\flore\source\repos\Ejer_05\Ejer_06\obj\Debug\netcoreapp3.1\Ejer_06.Asse
 C:\Users\flore\source\repos\Ejer_05\Ejer_06\obj\Debug\netcoreapp3.1\Ejer_06.dll
 C:\Users\flore\source\repos\Ejer_05\Ejer_06\obj\Debug\netcoreapp3.1\Ejer_06.pdb
 C:\Users\flore\source\repos\Ejer_05\Ejer_06\obj\Debug\netcoreapp3.1\Ejer_06.genruntimeconfig.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_05-06\Ejer_06\bin\Debug\netcoreapp3.1\Ejer_06.exe
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_05-06\Ejer_06\bin\Debug\netcoreapp3.1\Ejer_06.deps.json
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_05-06\Ejer_06\bin\Debug\netcoreapp3.1\Ejer_06.runtimeconfig.json
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_05-06\Ejer_06\bin\Debug\netcoreapp3.1\Ejer_06.runtimeconfig.dev.json
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_05-06\Ejer_06\bin\Debug\netcoreapp3.1\Ejer_06.dll
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_05-06\Ejer_06\bin\Debug\netcoreapp3.1\Ejer_06.pdb
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_05-06\Ejer_06\obj\Debug\netcoreapp3.1\Ejer_06.csprojAssemblyReference.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_05-06\Ejer_06\obj\Debug\netcoreapp3.1\Ejer_06.csproj.CoreCompileInputs.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_05-06\Ejer_06\obj\Debug\netcoreapp3.1\Ejer_06.AssemblyInfoInputs.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_05-06\Ejer_06\obj\Debug\netcoreapp3.1\Ejer_06.AssemblyInfo.cs
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_05-06\Ejer_06\obj\Debug\netcoreapp3.1\Ejer_06.dll
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_05-06\Ejer_06\obj\Debug\netcoreapp3.1\Ejer_06.pdb
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_05-06\Ejer_06\obj\Debug\netcoreapp3.1\Ejer_06.genruntimeconfig.cache

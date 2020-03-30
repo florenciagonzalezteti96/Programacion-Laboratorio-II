@@ -1,0 +1,13 @@
+C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_07\bin\Debug\netcoreapp3.1\Ejer_07.exe
+C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_07\bin\Debug\netcoreapp3.1\Ejer_07.deps.json
+C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_07\bin\Debug\netcoreapp3.1\Ejer_07.runtimeconfig.json
+C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_07\bin\Debug\netcoreapp3.1\Ejer_07.runtimeconfig.dev.json
+C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_07\bin\Debug\netcoreapp3.1\Ejer_07.dll
+C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_07\bin\Debug\netcoreapp3.1\Ejer_07.pdb
+C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_07\obj\Debug\netcoreapp3.1\Ejer_07.csprojAssemblyReference.cache
+C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_07\obj\Debug\netcoreapp3.1\Ejer_07.csproj.CoreCompileInputs.cache
+C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_07\obj\Debug\netcoreapp3.1\Ejer_07.AssemblyInfoInputs.cache
+C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_07\obj\Debug\netcoreapp3.1\Ejer_07.AssemblyInfo.cs
+C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_07\obj\Debug\netcoreapp3.1\Ejer_07.dll
+C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_07\obj\Debug\netcoreapp3.1\Ejer_07.pdb
+C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_07\obj\Debug\netcoreapp3.1\Ejer_07.genruntimeconfig.cache
