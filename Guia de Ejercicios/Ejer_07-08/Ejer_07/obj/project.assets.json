@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\flore\\source\\repos\\Gonzalez Teti Florencia\\Ejer_07\\Ejer_07.csproj",
+      "projectUniqueName": "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Guia de Ejercicios\\Ejer_07-08\\Ejer_07\\Ejer_07.csproj",
       "projectName": "Ejer_07",
-      "projectPath": "C:\\Users\\flore\\source\\repos\\Gonzalez Teti Florencia\\Ejer_07\\Ejer_07.csproj",
+      "projectPath": "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Guia de Ejercicios\\Ejer_07-08\\Ejer_07\\Ejer_07.csproj",
       "packagesPath": "C:\\Users\\flore\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\flore\\source\\repos\\Gonzalez Teti Florencia\\Ejer_07\\obj\\",
+      "outputPath": "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Guia de Ejercicios\\Ejer_07-08\\Ejer_07\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\flore\\AppData\\Roaming\\NuGet\\NuGet.Config",

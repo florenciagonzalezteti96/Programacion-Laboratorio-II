@@ -1,0 +1,13 @@
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase02_Ejercicio\bin\Debug\netcoreapp3.1\Clase02_Ejercicio.exe
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase02_Ejercicio\bin\Debug\netcoreapp3.1\Clase02_Ejercicio.deps.json
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase02_Ejercicio\bin\Debug\netcoreapp3.1\Clase02_Ejercicio.runtimeconfig.json
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase02_Ejercicio\bin\Debug\netcoreapp3.1\Clase02_Ejercicio.runtimeconfig.dev.json
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase02_Ejercicio\bin\Debug\netcoreapp3.1\Clase02_Ejercicio.dll
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase02_Ejercicio\bin\Debug\netcoreapp3.1\Clase02_Ejercicio.pdb
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase02_Ejercicio\obj\Debug\netcoreapp3.1\Clase02_Ejercicio.csprojAssemblyReference.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase02_Ejercicio\obj\Debug\netcoreapp3.1\Clase02_Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase02_Ejercicio\obj\Debug\netcoreapp3.1\Clase02_Ejercicio.AssemblyInfoInputs.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase02_Ejercicio\obj\Debug\netcoreapp3.1\Clase02_Ejercicio.AssemblyInfo.cs
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase02_Ejercicio\obj\Debug\netcoreapp3.1\Clase02_Ejercicio.dll
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase02_Ejercicio\obj\Debug\netcoreapp3.1\Clase02_Ejercicio.pdb
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase02_Ejercicio\obj\Debug\netcoreapp3.1\Clase02_Ejercicio.genruntimeconfig.cache

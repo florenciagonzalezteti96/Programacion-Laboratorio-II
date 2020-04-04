@@ -1,0 +1,13 @@
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_011-012\Ejer_012\bin\Debug\netcoreapp3.1\Ejer_012.exe
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_011-012\Ejer_012\bin\Debug\netcoreapp3.1\Ejer_012.deps.json
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_011-012\Ejer_012\bin\Debug\netcoreapp3.1\Ejer_012.runtimeconfig.json
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_011-012\Ejer_012\bin\Debug\netcoreapp3.1\Ejer_012.runtimeconfig.dev.json
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_011-012\Ejer_012\bin\Debug\netcoreapp3.1\Ejer_012.dll
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_011-012\Ejer_012\bin\Debug\netcoreapp3.1\Ejer_012.pdb
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_011-012\Ejer_012\obj\Debug\netcoreapp3.1\Ejer_012.csprojAssemblyReference.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_011-012\Ejer_012\obj\Debug\netcoreapp3.1\Ejer_012.csproj.CoreCompileInputs.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_011-012\Ejer_012\obj\Debug\netcoreapp3.1\Ejer_012.AssemblyInfoInputs.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_011-012\Ejer_012\obj\Debug\netcoreapp3.1\Ejer_012.AssemblyInfo.cs
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_011-012\Ejer_012\obj\Debug\netcoreapp3.1\Ejer_012.dll
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_011-012\Ejer_012\obj\Debug\netcoreapp3.1\Ejer_012.pdb
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_011-012\Ejer_012\obj\Debug\netcoreapp3.1\Ejer_012.genruntimeconfig.cache

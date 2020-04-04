@@ -40,12 +40,12 @@ namespace Ejer_08
 
             List<Empleado> listaDeEmpleados = new List<Empleado>();
 
+            Console.WriteLine("Ingrese los siguientes datos:");
+
             do
             {
                 Empleado nuevoEmpleado = new Empleado();
                 Console.WriteLine();
-
-                Console.WriteLine("\nIngrese los datos del empleado:");
 
                 Console.WriteLine("Nombre del empleado:");
                 nuevoEmpleado.nombre = Console.ReadLine();

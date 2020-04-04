@@ -1,0 +1,13 @@
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase_02\bin\Debug\netcoreapp3.1\Clase_02.exe
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase_02\bin\Debug\netcoreapp3.1\Clase_02.deps.json
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase_02\bin\Debug\netcoreapp3.1\Clase_02.runtimeconfig.json
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase_02\bin\Debug\netcoreapp3.1\Clase_02.runtimeconfig.dev.json
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase_02\bin\Debug\netcoreapp3.1\Clase_02.dll
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase_02\bin\Debug\netcoreapp3.1\Clase_02.pdb
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase_02\obj\Debug\netcoreapp3.1\Clase_02.csprojAssemblyReference.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase_02\obj\Debug\netcoreapp3.1\Clase_02.csproj.CoreCompileInputs.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase_02\obj\Debug\netcoreapp3.1\Clase_02.AssemblyInfoInputs.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase_02\obj\Debug\netcoreapp3.1\Clase_02.AssemblyInfo.cs
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase_02\obj\Debug\netcoreapp3.1\Clase_02.dll
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase_02\obj\Debug\netcoreapp3.1\Clase_02.pdb
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase_02\obj\Debug\netcoreapp3.1\Clase_02.genruntimeconfig.cache

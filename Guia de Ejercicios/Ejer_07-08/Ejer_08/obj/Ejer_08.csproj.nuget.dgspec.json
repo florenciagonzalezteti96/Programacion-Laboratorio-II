@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\flore\\source\\repos\\Gonzalez Teti Florencia\\Ejer_08\\Ejer_08.csproj": {}
+    "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Guia de Ejercicios\\Ejer_07-08\\Ejer_08\\Ejer_08.csproj": {}
   },
   "projects": {
-    "C:\\Users\\flore\\source\\repos\\Gonzalez Teti Florencia\\Ejer_08\\Ejer_08.csproj": {
+    "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Guia de Ejercicios\\Ejer_07-08\\Ejer_08\\Ejer_08.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\flore\\source\\repos\\Gonzalez Teti Florencia\\Ejer_08\\Ejer_08.csproj",
+        "projectUniqueName": "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Guia de Ejercicios\\Ejer_07-08\\Ejer_08\\Ejer_08.csproj",
         "projectName": "Ejer_08",
-        "projectPath": "C:\\Users\\flore\\source\\repos\\Gonzalez Teti Florencia\\Ejer_08\\Ejer_08.csproj",
+        "projectPath": "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Guia de Ejercicios\\Ejer_07-08\\Ejer_08\\Ejer_08.csproj",
         "packagesPath": "C:\\Users\\flore\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\flore\\source\\repos\\Gonzalez Teti Florencia\\Ejer_08\\obj\\",
+        "outputPath": "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Guia de Ejercicios\\Ejer_07-08\\Ejer_08\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flore\\AppData\\Roaming\\NuGet\\NuGet.Config",
