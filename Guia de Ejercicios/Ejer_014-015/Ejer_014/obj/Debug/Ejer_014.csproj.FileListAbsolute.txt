@@ -1,0 +1,7 @@
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\Ejer_014\bin\Debug\Ejer_014.exe.config
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\Ejer_014\bin\Debug\Ejer_014.exe
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\Ejer_014\bin\Debug\Ejer_014.pdb
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\Ejer_014\obj\Debug\Ejer_014.csprojAssemblyReference.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\Ejer_014\obj\Debug\Ejer_014.csproj.CoreCompileInputs.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\Ejer_014\obj\Debug\Ejer_014.exe
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Gonzalez Teti Florencia\Ejer_014\obj\Debug\Ejer_014.pdb
