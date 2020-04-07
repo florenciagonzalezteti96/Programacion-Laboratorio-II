@@ -1,0 +1,7 @@
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Ejer_Clase_04\bin\Debug\Ejer_Clase_04.exe.config
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Ejer_Clase_04\bin\Debug\Ejer_Clase_04.exe
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Ejer_Clase_04\bin\Debug\Ejer_Clase_04.pdb
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Ejer_Clase_04\obj\Debug\Ejer_Clase_04.csprojAssemblyReference.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Ejer_Clase_04\obj\Debug\Ejer_Clase_04.csproj.CoreCompileInputs.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Ejer_Clase_04\obj\Debug\Ejer_Clase_04.exe
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Ejer_Clase_04\obj\Debug\Ejer_Clase_04.pdb

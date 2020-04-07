@@ -1,0 +1,2 @@
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase_04\obj\Debug\Clase_04.csprojAssemblyReference.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Clases\Gonzalez Teti Florencia\Clase_04\obj\Debug\Clase_04.csproj.CoreCompileInputs.cache
