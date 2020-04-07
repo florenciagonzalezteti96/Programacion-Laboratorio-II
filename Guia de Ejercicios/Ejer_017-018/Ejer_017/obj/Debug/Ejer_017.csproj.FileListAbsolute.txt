@@ -1,0 +1,7 @@
+C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_017\bin\Debug\Ejer_017.exe.config
+C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_017\bin\Debug\Ejer_017.exe
+C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_017\bin\Debug\Ejer_017.pdb
+C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_017\obj\Debug\Ejer_017.csprojAssemblyReference.cache
+C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_017\obj\Debug\Ejer_017.csproj.CoreCompileInputs.cache
+C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_017\obj\Debug\Ejer_017.exe
+C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_017\obj\Debug\Ejer_017.pdb

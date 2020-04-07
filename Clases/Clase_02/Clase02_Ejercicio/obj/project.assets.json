@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Clases\\Gonzalez Teti Florencia\\Clase02_Ejercicio\\Clase02_Ejercicio.csproj",
+      "projectUniqueName": "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Clases\\Clase_02\\Clase02_Ejercicio\\Clase02_Ejercicio.csproj",
       "projectName": "Clase02_Ejercicio",
-      "projectPath": "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Clases\\Gonzalez Teti Florencia\\Clase02_Ejercicio\\Clase02_Ejercicio.csproj",
+      "projectPath": "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Clases\\Clase_02\\Clase02_Ejercicio\\Clase02_Ejercicio.csproj",
       "packagesPath": "C:\\Users\\flore\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Clases\\Gonzalez Teti Florencia\\Clase02_Ejercicio\\obj\\",
+      "outputPath": "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Clases\\Clase_02\\Clase02_Ejercicio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\flore\\AppData\\Roaming\\NuGet\\NuGet.Config",

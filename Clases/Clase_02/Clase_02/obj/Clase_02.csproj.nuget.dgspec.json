@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Clases\\Gonzalez Teti Florencia\\Clase_02\\Clase_02.csproj": {}
+    "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Clases\\Clase_02\\Clase_02\\Clase_02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Clases\\Gonzalez Teti Florencia\\Clase_02\\Clase_02.csproj": {
+    "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Clases\\Clase_02\\Clase_02\\Clase_02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Clases\\Gonzalez Teti Florencia\\Clase_02\\Clase_02.csproj",
+        "projectUniqueName": "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Clases\\Clase_02\\Clase_02\\Clase_02.csproj",
         "projectName": "Clase_02",
-        "projectPath": "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Clases\\Gonzalez Teti Florencia\\Clase_02\\Clase_02.csproj",
+        "projectPath": "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Clases\\Clase_02\\Clase_02\\Clase_02.csproj",
         "packagesPath": "C:\\Users\\flore\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Clases\\Gonzalez Teti Florencia\\Clase_02\\obj\\",
+        "outputPath": "C:\\Users\\flore\\Desktop\\Programacion-Laboratorio-II\\Clases\\Clase_02\\Clase_02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flore\\AppData\\Roaming\\NuGet\\NuGet.Config",

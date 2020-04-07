@@ -37,7 +37,11 @@ namespace Clase02_Ejercicio
                 sello += "*";
             }
 
+            
+
             return sello + "\n" + "*" + mensaje + "*\n" + sello;
         }
+        
     }
+    
 }
