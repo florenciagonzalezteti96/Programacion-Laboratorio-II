@@ -31,8 +31,8 @@ namespace Ejer_017
                 Console.WriteLine("El nivel de tinta actual de: {0}.\nSe uso {1} de tinta", boligrafoRojo.GetTinta(), tintaUsada);
             }
 
-            boligrafoRojo.SetTinta(-50);
-            Console.WriteLine("El nivel de tinta despues de recargar es de: {0}.", boligrafoRojo.GetTinta());
+            boligrafoRojo.Recargar();
+            Console.WriteLine(boligrafoRojo.GetTinta());
 
             Console.ReadKey();
 

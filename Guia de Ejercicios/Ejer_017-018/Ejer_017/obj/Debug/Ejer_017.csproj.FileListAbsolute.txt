@@ -5,3 +5,10 @@ C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_017\obj\Debug\Ejer_017.
 C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_017\obj\Debug\Ejer_017.csproj.CoreCompileInputs.cache
 C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_017\obj\Debug\Ejer_017.exe
 C:\Users\flore\source\repos\Gonzalez Teti Florencia\Ejer_017\obj\Debug\Ejer_017.pdb
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_017-018\Ejer_017\bin\Debug\Ejer_017.exe.config
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_017-018\Ejer_017\bin\Debug\Ejer_017.exe
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_017-018\Ejer_017\bin\Debug\Ejer_017.pdb
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_017-018\Ejer_017\obj\Debug\Ejer_017.csprojAssemblyReference.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_017-018\Ejer_017\obj\Debug\Ejer_017.csproj.CoreCompileInputs.cache
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_017-018\Ejer_017\obj\Debug\Ejer_017.exe
+C:\Users\flore\Desktop\Programacion-Laboratorio-II\Guia de Ejercicios\Ejer_017-018\Ejer_017\obj\Debug\Ejer_017.pdb

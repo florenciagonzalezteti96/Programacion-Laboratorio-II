@@ -26,9 +26,10 @@ namespace Boligrafos
         }
         public void SetTinta(short tinta)
         {
-            /*if (tinta < 0)//gasta tinta
+            /*Con while:
+             * if (tinta < 0)//gasta tinta
             {
-                while (tinta <= 0 && this.tinta >= 0 && this.tinta <= cantidadTintaMaxima)//mientras que haya para restar
+                while (tinta < 0 && this.tinta >0 && this.tinta <= cantidadTintaMaxima)//mientras que haya para restar
                 {                                                           //y mientras que se mantenga en el rango la tinta del boligrafo
                     this.tinta--;//resto tinta que gaste
                     tinta++;//resto de lo que gaste
@@ -36,39 +37,44 @@ namespace Boligrafos
             }
             else//carga tinta
             {
-                while (tinta> 0 && this.tinta >= 0 && this.tinta <= cantidadTintaMaxima)
+                while (tinta> 0 && this.tinta >= 0 && this.tinta < cantidadTintaMaxima)
                 {
                     this.tinta++;
-                    Console.WriteLine("El nivel de tinta: {0}", this.tinta);
                     tinta--;
-                    Console.WriteLine("tinta: {0}", tinta);
-                    Console.ReadKey();
                 }
             }*/
             int i;
-            
-                if (tinta < 0)//gasta tinta
+
+            if (tinta < 0)//gasta tinta
+            {
+                for (i = 0; i > tinta; i--) //mientras que i sea mayor a tinta
                 {
-                    for (i=0; i > tinta; i--) //mientras que i sea mayor a tinta
+                    if (this.tinta>0)
                     {
                         this.tinta--; //resto tinta
                     }
-                }
-                else//carga tinta
-                {
-                    for (i = 0; i < tinta; i++) //mientras i sea menor a tinta
+                    else
                     {
-                        if (this.tinta < cantidadTintaMaxima) //si la tinta es menor a la cantidad maxima
-                        {
-                            this.tinta++; //agrego tinta
-                        }
-                        else//si llega al limite de la cantidad maxima
-                        {
-                            break;//me voy xd
-                        }
+                        break;
+                    }
+                    
+                }
+            }
+            else//carga tinta
+            {
+                for (i = 0; i < tinta; i++) //mientras i sea menor a tinta
+                {
+                    if (this.tinta < cantidadTintaMaxima) //si la tinta es menor a la cantidad maxima
+                    {
+                        this.tinta++; //agrego tinta
+                    }
+                    else//si llega al limite de la cantidad maxima
+                    {
+                        break;
                     }
                 }
-            
+            }
+
         }
         public void Recargar()
         {
