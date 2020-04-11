@@ -13,6 +13,7 @@ namespace ClaseRepaso_10_04_2020
         private double precioDeAuto;
         public static Random numeroAleatorio;
 
+        #region Constructores
         public Estacionamiento(string estacionamiento, int capacidadEstacionamiento) : this(capacidadEstacionamiento)
         {
             this.nombreEstacionamiento = estacionamiento;
@@ -28,6 +29,9 @@ namespace ClaseRepaso_10_04_2020
         {
             numeroAleatorio = new Random();
         }
+        #endregion
+
+        #region Metodos
         public static int GenerarPrecio()
         {
             return numeroAleatorio.Next(100, 500);
@@ -36,6 +40,9 @@ namespace ClaseRepaso_10_04_2020
         {
             return "Hola Mundo";
         }
+        #endregion
+
+        #region Operadores ==, !=, + y op implicitos
         public static bool operator ==(Estacionamiento estacionamiento, Auto auto)
         {
             /*bool siExiste = false;
@@ -76,7 +83,7 @@ namespace ClaseRepaso_10_04_2020
         public static bool operator +(Estacionamiento estacionamiento, Auto auto)
         {
             bool sePudoAgregar = false;
-            if(estacionamiento != auto)// si el auto no esta adentro
+            if (estacionamiento != auto)// si el auto no esta adentro
             {
                 for (int i = 0; i < estacionamiento.arrayDeAuto.Length; i++)
                 {
@@ -95,5 +102,6 @@ namespace ClaseRepaso_10_04_2020
         {
             return new Estacionamiento(capacidad);
         }
+        #endregion
     }
 }

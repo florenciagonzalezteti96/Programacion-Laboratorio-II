@@ -4,11 +4,11 @@ namespace ClaseRepaso_10_04_2020
 {
     class Auto
     {
-        //patente, marca, cant puertas, dni dueño
         private string patente;
         private string marca;
         private int cantidadPuertas;
         private int dniDueño;
+
         #region Constructores
         public Auto(string patente, string marca, int cantPuertas, int dniDueño) : this(patente, dniDueño)
         {
@@ -25,7 +25,9 @@ namespace ClaseRepaso_10_04_2020
             this.marca = "Dato no ingresado";
             this.cantidadPuertas = -1;
         }
-        #endregion 
+        #endregion
+
+        #region Getters y Setters
         public string GetInformacion()
         {
             StringBuilder sb = new StringBuilder();
@@ -58,6 +60,9 @@ namespace ClaseRepaso_10_04_2020
             this.SetInformacion(marca);
             this.SetInformacion(cantPuertas);
         }
+        #endregion
+
+        #region Operadores ==, != y op explicitos
         public static bool operator ==(Auto autoA, Auto autoB)//no es un metodo que necesite llamarse desde una instancia 
         {
             //bool sonIguales = false;
@@ -84,8 +89,7 @@ namespace ClaseRepaso_10_04_2020
             return auto.GetInformacion();
         }
 
-
-
+        #endregion
 
     }
 }

@@ -18,7 +18,7 @@ namespace ClaseRepaso_10_04_2020
             Auto auto2 = new Auto("fgh456", "Fiat", 5, 11222555);
             string infoDeAuto;
 
-            Console.WriteLine(auto1.GetPatente());
+            Console.WriteLine(auto1.GetInformacion());
 
             auto1.SetInformacion(5);
             if (auto1 == auto2)
